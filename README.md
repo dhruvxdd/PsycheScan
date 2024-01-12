@@ -36,7 +36,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/psyche-scan.git
+git clone https://github.com/dhruvxdd/psyche-scan.git
 Install dependencies:
 
 bash
